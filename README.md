@@ -11,10 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=highenddeveloper&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=highenddeveloper&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=highenddeveloper&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=highenddeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=sb608381)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
